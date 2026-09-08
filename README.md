@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Jack**, a frontend developer based in **Cambridge, UK**, currently studying at **Hills Road Sixth Form College**.
+I'm **Jack**, a frontend developer based in **Cambridge, UK**.
 
 I've been building for the web since I was young, working across both **frontend interfaces** and the systems behind them.
 
@@ -127,7 +127,6 @@ focus:
 |              |                                   |
 | ------------ | --------------------------------- |
 | 📍 Location  | Cambridge, United Kingdom         |
-| 🎓 Education | Hills Road Sixth Form College     |
 | 💻 Focus     | Frontend Development              |
 | 🧩 Languages | C#, Python, Java, C++             |
 | 🌐 Web       | HTML, CSS, JavaScript, TypeScript |
