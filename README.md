@@ -160,5 +160,5 @@ Have a project, opportunity, or just want to talk tech?
 </p>
 
 <p align="center">
-  ⭐ If you like what I build, consider giving my projects a star!
+  ⭐ Previously only had a student github account, so this is my first public one!
 </p>
