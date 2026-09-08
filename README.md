@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jack Baker
+# 👋 Hey, I'm Jack 
 
 ### `frontend developer` · `builder` · `problem solver`
 
