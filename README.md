@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jackbaker-dev-folio.lovable.app/">🌐 Portfolio</a>
+  <a href="https://jackbkrs.github.io/">🌐 Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/jackbkrs">💻 GitHub</a>
   &nbsp;•&nbsp;
@@ -142,7 +142,7 @@ Have a project, opportunity, or just want to talk tech?
 **I'm always interested in building something interesting.**
 
 <p align="center">
-  <a href="https://jackbaker-dev-folio.lovable.app/">
+  <a href="https://jackbkrs.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/jackbkrs">
